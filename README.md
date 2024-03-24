@@ -1,12 +1,19 @@
 # SI-UKKW-SIWP2005_OOP_2024 Object-Oriented Programming
-> [name=Hendrik Tampubolon]
+
+> <img width="20" height="20" src="https://img.icons8.com/fluency/48/writer-male.png" alt="writer-male"/> *Hendrik Tampubolon*
+> <img width="20" height="20" src="https://img.icons8.com/nolan/64/new-post.png" alt="new-post"/> <a href="mailto:hendrik.gian@gmail.com">Reach Me!</a>
  
 ![header](asset/header.png)
 
 
-
 ## Overview
-> "Effective software development begins with a robust design. Object-oriented design serves as a blueprint for developers to conceptualize applications before writing any code, facilitating the breakdown of ideas into **F**unctionality, **U**sability,**R**eliability, **P**erformances, and **S**upportability **(FURPS)** components.  This course is dedicated to mastering the foundational principles of object-oriented design, delivered in an engaging and interactive manner to accelerate your learning process. This Course (SIWP2005) will cover an introduction to OOP Princples including objects, classes, *Abstraction, Polymorphism, Inheritance,and Encapsulation* **(APIE)**. Besided, a practical hand-on will be introduced in Python & Javascript. In addition, FURPS requirements and analysis will be delivered with *Universal Modeling Language(**UML**)* such as use cases diagram and class diagram. 
+> "Effective software development begins with a robust design. Object-oriented design serves as a blueprint for developers to conceptualize applications before writing any code, facilitating the breakdown of ideas into reusability and mantainable code which through **F**unctionality, **U**sability,**R**eliability, **P**erformances, and **S**upportability **(FURPS)** analysis.  This course is dedicated to mastering the foundational principles of object-oriented design, delivered in an engaging and interactive manner to accelerate your learning process. This Course (SIWP2005) will cover an introduction to OOP Princples including objects, classes, *Abstraction, Polymorphism, Inheritance,and Encapsulation* **(APIE)**. Beside, a practical hand-on will be introduced in Python & Javascript. In addition, FURPS requirements and analysis will be delivered with *Universal Modeling Language(**UML**)* such as use cases diagram and class diagram. 
+
+## Learning Objectives
+- understanding the idea of object-oriented programming design and its terminology 
+- understanding on how to implement OOP in python
+- able to build your own python package
+- able to develop endpoint REST API
 
 ## SIWP2005_PBO Course Roadmaps
 
@@ -48,8 +55,9 @@ journey
 ### Object-Oriented Thinking
 > seeing everything is an object
 
-***Fun fact, Did you know that in Python, everything is threated as an object
-e.g. var = Null, is a type of object
+***Fun fact
+> Did you know that everything in Python is an object?
+> Indeed!, all data types, structures, functions and classes are treated as objects. event Null, None is a type of object. Hence,  makes it very flexible
 
 ### Objects and Classes
 - Classes:
