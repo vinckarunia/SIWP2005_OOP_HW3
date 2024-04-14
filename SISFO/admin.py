@@ -1,6 +1,7 @@
 from base.User import User
 from student import Student
 from professor import Professor
+#continue other user here
 
 class Admin(User):
     def __init__(self, user_id, name, email, password):
@@ -21,3 +22,7 @@ class Admin(User):
             return Student(*args)
         elif user_type == "professor":
             return Professor(*args)
+        elif user_type == "operator":
+            pass
+        else:
+            return None
