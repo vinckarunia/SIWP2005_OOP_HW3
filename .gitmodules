@@ -1,0 +1,3 @@
+[submodule "siwp2005-pip-test"]
+	path = siwp2005-pip-test
+	url = git@github.com:hendrikTpl/siwp2005-pip-test.git
