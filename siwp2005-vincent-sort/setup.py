@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'siwp2005-vincent-sort',
-    version = '0.0.1',
+    version = '0.0.2',
     packages=find_packages(),
     author = 'Vincent Karunia Pratama Simanjuntak',
     author_email = 'vincent.422023012@civitas.ukrida.ac.id',
