@@ -1,5 +1,0 @@
-MIT License
-
-Copyright (c) [2024] [hendrik]
-
-Just examples of License files, nothing serious and fancy here
