@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = 'siwp2005-vincent-sort',
+    name = 'siwp2005-vincentkarunia-sort',
     version = '0.0.2',
     packages=find_packages(),
     author = 'Vincent Karunia Pratama Simanjuntak',

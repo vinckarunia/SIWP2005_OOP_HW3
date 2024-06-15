@@ -1,17 +1,3 @@
-Metadata-Version: 2.1
-Name: siwp2005-vincent-sort
-Version: 0.0.2
-Summary: HW3 OOP
-Home-page: https://github.com/vinckarunia/SIWP2005_OOP_HW3
-Author: Vincent Karunia Pratama Simanjuntak
-Author-email: vincent.422023012@civitas.ukrida.ac.id
-Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
-Classifier: Operating System :: OS Independent
-Requires-Python: >=3.6
-Description-Content-Type: text/markdown
-License-File: LICENSE
-
 # Sorting Algorithms
 
 This package provides a collection of sorting algorithms implemented in Python. The following sorting algorithms are included:
@@ -25,7 +11,7 @@ This package provides a collection of sorting algorithms implemented in Python. 
 You can install the package using pip:
 
 ```sh
-pip install siwp2005-vincent-sort
+pip install -i https://test.pypi.org/simple/ siwp2005-vincentkarunia-sort==0.0.2
 ```
 
 ## Usage
@@ -33,7 +19,7 @@ pip install siwp2005-vincent-sort
 Here is an example of how to use the sorting algorithms:
 
 ```python
-from sort import bubble_sort, insertion_sort, quick_sort
+from sort.src import bubble_sort, insertion_sort, quick_sort
 
 numbers = [64, 34, 25, 12, 22, 11, 90]
 
@@ -64,4 +50,3 @@ Quick Sort is an efficient sorting algorithm that uses a divide-and-conquer stra
 ## License
 
 This project is licensed under the MIT License.
-```
